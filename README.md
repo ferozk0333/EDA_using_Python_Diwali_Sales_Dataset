@@ -4,19 +4,19 @@
 A company XYZ has shared its Diwali Sales Data (Diwali is a major Indian festival). The company wants an analysis of its data followed by a summary consisting of sales insights. The company will then use the insights to improvise customer experience, and improve sales revenue.
 
 ## Approach:
-1. Data Cleaning
-    Null Values
-    Duplicate Values
-    Column renaming 
-2. Exploratory Data Analysis
-    Gender
-    Age
-    States of Country
-    Marital status
-    Occupation
-    Product Category
-3. Conclusion with Insights
-    Based on the analysis, any important insights will be mentioned here
+1. Data Cleaning <br/>
+    Null Values <br/>
+    Duplicate Values<br/>
+    Column renaming <br/>
+2. Exploratory Data Analysis<br/>
+    Gender<br/>
+    Age<br/>
+    States of Country<br/>
+    Marital status<br/>
+    Occupation<br/>
+    Product Category<br/>
+3. Conclusion with Insights<br/>
+    Based on the analysis, any important insights will be mentioned here<br/>
    
 #### Project Learning Outcomes
     1. Performed data cleaning and manipulation on a dataset containing over 11,000 records
