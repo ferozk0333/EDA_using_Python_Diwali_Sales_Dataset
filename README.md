@@ -17,6 +17,11 @@ A company XYZ has shared its Diwali Sales Data (Diwali is a major Indian festiva
         Product Category<br/>
 3. Conclusion with Insights<br/>
         Based on the analysis, any important insights will be mentioned here<br/>
+4. Libraries used<br/>
+	Matplotlib<br/>
+	Seaborn<br/>
+	Numpy<br/>
+        Pandas<br/>
    
 #### Project Learning Outcomes
     1. Performed data cleaning and manipulation on a dataset containing over 11,000 records
